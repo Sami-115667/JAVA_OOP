@@ -1,0 +1,1 @@
+Input from java programme to file

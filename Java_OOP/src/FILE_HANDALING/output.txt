@@ -1,0 +1,6 @@
+Input from java programme to file 1
+Input from java programme to file 2
+Input from java programme to file 3
+Input from java programme to file 4
+Input from java programme to file 5
+Input from java programme to file 6
